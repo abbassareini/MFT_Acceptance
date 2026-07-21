@@ -1,0 +1,3 @@
+# Jupyter autosaves (an old checkpoint contains a leaked access token - never commit these)
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
