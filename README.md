@@ -14,7 +14,7 @@ The MFT has 10 detection layers (5 disks x 2 faces). For every valid layer confi
 
 | Path | Content |
 |---|---|
-| `Acceptance_Computation_FINAL.ipynb` | Main pipeline, cells documented, run top to bottom |
+| `Acceptance_Computation_abbas.ipynb` | Main pipeline, cells documented, run top to bottom |
 | `Library/` | Helper notebooks loaded via `%run` |
 | `chipPositionsnew.txt` | Chip geometry (ID, half/disk/layer/zone, x/y/z) |
 | `Acceptance_Dataframes/` | Generated per-configuration acceptance data and RU weights |
