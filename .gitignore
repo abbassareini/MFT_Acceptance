@@ -1,3 +1,11 @@
-# Jupyter autosaves (an old checkpoint contains a leaked access token - never commit these)
+# Jupyter autosave folders - never commit these
 .ipynb_checkpoints/
 **/.ipynb_checkpoints/
+
+# ROOT data files - too large for git, and not ours to redistribute
+*.root
+AO2D_*
+
+# Python caches
+__pycache__/
+*.pyc
